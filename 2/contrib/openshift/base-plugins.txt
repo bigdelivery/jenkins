@@ -4,7 +4,7 @@ openshift-client:0.9.6
 
 
 # kubernetes plugin - https://wiki.jenkins-ci.org/display/JENKINS/Kubernetes+Plugin
-kubernetes:0.10
+kubernetes:1.0
 
 # fabric8 openshift sync
 openshift-sync:0.1.28
@@ -16,7 +16,7 @@ workflow-aggregator:2.5
 
 
 # remote loader https://wiki.jenkins-ci.org/display/JENKINS/Pipeline+Remote+Loader+Plugin
-workflow-remote-loader:1.2
+workflow-remote-loader:1.4
 
 # mercurial - https://wiki.jenkins-ci.org/display/JENKINS/Mercurial+Plugin
 mercurial:1.54
@@ -25,7 +25,7 @@ multiple-scms:0.6
 ssh-credentials:1.13
 
 # Pipeline Utility Steps Plugin - https://wiki.jenkins-ci.org/display/JENKINS/Pipeline+Utility+Steps+Plugin
-pipeline-utility-steps:1.1.5
+pipeline-utility-steps:1.4.1
 
 # Jenkins v2 specific
 matrix-auth:1.5
